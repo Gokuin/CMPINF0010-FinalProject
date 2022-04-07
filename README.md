@@ -1,7 +1,7 @@
 # CMPINF0010-FinalProject
-A repo for the final group project in big ideas
-Canvas group #27 (Final Project Group 27)
-Final Project group name : "Git good"
+- A repo for the final group project in big ideas
+- Canvas group #27 (Final Project Group 27)
+- Final Project group name : "Git good"
 
 ## Team Members:
 - Taittinger Gabelhart twg12@pitt.edu 
