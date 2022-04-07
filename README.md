@@ -9,7 +9,7 @@
 - Micheal Kharkovski MRK128@pitt.edu
    - Notebook: https://github.com/Gokuin/CMPINF0010-FinalProject/blob/main/final_project_mrk128.ipynb
 - Pooya Noori PON7@pitt.edu
-   - Notebook: https://github.com/Gokuin/CMPINF0010-FinalProject/blob/main/final%20project%20notebook%20of%20pooya.ipynb
+   - Notebook: https://github.com/Gokuin/CMPINF0010-FinalProject/blob/main/final%20project%20notebook%20of%20pooya%20(1).ipynb
 
 ## Data sets used by the team and description of them
 - https://data.wprdc.org/dataset/city-of-pittsburgh-public-art
